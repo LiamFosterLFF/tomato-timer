@@ -1,0 +1,13 @@
+Enable desktop alerts
+Auto Play Pomodoros
+Sound test
+Close modal on click save
+Add UUIDs to components that need them
+If pomodorosDoneToday = 0 then button can't be clicked, css change
+Style Log Modal
+Style Settings Modal
+Style FAQ Modal
+Fix Navbar so it is dynamic
+Fix other components so they're dynamic
+Test in 4k
+Pull out settings into redux

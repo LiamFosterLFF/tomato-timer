@@ -29,10 +29,10 @@ const PanelComponent = (props) => {
       <Modal {...modalProps}/>
       <div className='panel'>
         <div className='row'>
-          <div className='column three'>
+          <div className='column'>
             <div className='title'>TomatoTimer</div>
           </div>
-          <div className='column seven'>
+          <div className='column '>
             <Navbar showModal={showModal}/>
           </div>
         </div>

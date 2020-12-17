@@ -22,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -40,7 +42,9 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "nodemon": "^1.19.4",
     "react-autocomplete-cli": "0.0.3"
-  }
+  },
+  "homepage": "https://liamfosterlff.github.io/tomato-timer/"
 }

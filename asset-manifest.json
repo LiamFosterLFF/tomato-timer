@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tomato-timer/static/css/main.d084bc57.chunk.css",
+    "main.js": "/tomato-timer/static/js/main.5209661a.chunk.js",
+    "main.js.map": "/tomato-timer/static/js/main.5209661a.chunk.js.map",
+    "runtime-main.js": "/tomato-timer/static/js/runtime-main.85f4ce74.js",
+    "runtime-main.js.map": "/tomato-timer/static/js/runtime-main.85f4ce74.js.map",
+    "static/js/2.cffc6bf1.chunk.js": "/tomato-timer/static/js/2.cffc6bf1.chunk.js",
+    "static/js/2.cffc6bf1.chunk.js.map": "/tomato-timer/static/js/2.cffc6bf1.chunk.js.map",
+    "index.html": "/tomato-timer/index.html",
+    "precache-manifest.7b9ca12efdb06ce61ef9a99a7ff68be6.js": "/tomato-timer/precache-manifest.7b9ca12efdb06ce61ef9a99a7ff68be6.js",
+    "service-worker.js": "/tomato-timer/service-worker.js",
+    "static/css/main.d084bc57.chunk.css.map": "/tomato-timer/static/css/main.d084bc57.chunk.css.map",
+    "static/media/AlarmClock.wav": "/tomato-timer/static/media/AlarmClock.cc927242.wav",
+    "static/media/DoorBell.wav": "/tomato-timer/static/media/DoorBell.775ea83c.wav",
+    "static/media/EightiesAlarm.wav": "/tomato-timer/static/media/EightiesAlarm.4f595db9.wav",
+    "static/media/ElevatorDing.wav": "/tomato-timer/static/media/ElevatorDing.4dd0cef9.wav",
+    "static/media/WristwatchAlarm.wav": "/tomato-timer/static/media/WristwatchAlarm.3952ef9f.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f4ce74.js",
+    "static/js/2.cffc6bf1.chunk.js",
+    "static/css/main.d084bc57.chunk.css",
+    "static/js/main.5209661a.chunk.js"
+  ]
+}
